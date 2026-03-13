@@ -1,3 +1,5 @@
+package Service;
+
 public interface Master {
     String getFullName();
     String getSpecialization();

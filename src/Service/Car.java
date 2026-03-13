@@ -1,3 +1,5 @@
+package Service;
+
 public interface Car {
     Brand getBrand();
     CarModel getModel();

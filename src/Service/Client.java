@@ -1,3 +1,5 @@
+package Service;
+
 public interface Client {
     String getFullName();
     String getEmail();

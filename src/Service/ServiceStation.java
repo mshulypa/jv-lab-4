@@ -1,3 +1,5 @@
+package Service;
+
 public interface ServiceStation {
     ServiceStation getServiceStation();
     String getCountry();
